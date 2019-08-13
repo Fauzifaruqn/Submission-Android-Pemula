@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Penyanyi Top Indonesia</string>
+    <string name="singer_name">Nama Penyanyi Solo Indonesia</string>
+    <string name="singerdescription">Desktispi</string>
+    <string name="list_penyanyi">List Penyanyi</string>
+    <string name="about_me">About Me</string>
+</resources>
